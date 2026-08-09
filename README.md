@@ -30,7 +30,7 @@ The app should now be installed on your phone.
 ## Overview
 
 ### Scope
-Rotate through chosen lockscreen and home wallpaper directories.
+Rotate through chosen lockscreen and home wallpaper directories, randomly choosing a new wallpaper for both on a set timer.
 
 ### Current Limitations
 The timer to rotate pictures is currently hardcoded to 30 minutes and cannot be modified in-app.
